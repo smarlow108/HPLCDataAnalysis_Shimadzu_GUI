@@ -175,4 +175,4 @@ Retention times and compound names are defined near the top of both scripts. Upd
 
 ## License and use
 
-Add the appropriate licence for your project before publishing this repository. Validate the workflow with known standards and laboratory quality procedures before using it for regulated or reportable measurements.
+Developed for personal use, open to the public.
